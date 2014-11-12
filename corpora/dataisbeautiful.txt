@@ -1,0 +1,30 @@
+Women still outlive men by quite a bit, so this makes sense really.  Testosterone is a harsh master. Testosterone, but thank you for asking. Breaking news; women make up about 50.8% of the US population.  There are more men being born than women. Men tend to die away. Therefore there are more women then men populating the planet. 
+
+Note that these women are old and in the demographic of fertility men outnumber the women.
+
+Google cia demographic for more information.  * Inverts the "red for Russia, blue for USA" expectation we've been using for ~60 years now, instead of using established country colors or at least neutral ones. Leads to the opposite interpretation at first glance.
+* 3D pie graph (a.k.a. "look mom I can use powerpoint") unnecessarily decouples chart area from data proportions, making 'other' appear smaller at a glance and everything along the bottom bumper appear larger. Pie charts have one job, which is showing proportions of a whole. 2D does this much better.
+* Percentages not listed; for most purposes pie charts should show percentages only or percentage and value on two lines, but only rarely value alone. (Doubly important on 3D pie charts, where perspective complicates estimation)
+* Strange one decimal rounding on 5-6 digit numbers contributes to chart area clutter without adding meaningful information.
+* Fails to split out China or the ESA (in aggregate or by country) from the "other" category, which thus doesn't answer the most obvious user questions posed by this data. ("Who is in third place after the two I already knew, and by how much?")
+* No explicit statement whether "Other" includes non-US astronauts sent up by NASA on the space shuttle. Presumably yes, but this is a big omission as it changes the interpretation of the lead the Russia has over the USA. Further exacerbates the above point.
+* No data source listed on the chart area.
+
+
+I'll give it a 3/10 for almost choosing the proper data presentation method and for listing the date of the information, but this data is not beautiful. Okay, I hate to be that guy, but...
+
+Why in the world is a 3D pie chart being upvoted here? I know it's interesting data, but this is a runner-up for the worst possible way to present this data.
+
+First off, the 3D aspect is completely unnecessary. It adds nothing but confusion.
+
+A pie chart is also a horrendous way of presenting data, but it *may* be excusable in this case if the goal were to show that Russia/the USSR actually still has over 50% of the total man-hours in space.
+
+A bar chart would have been much more effective at presenting this data, however, and would have allowed for more categories to be split out from "Other."
+
+**Edit**: [Here is a helpful guide on when to use 3D pie charts.](http://i.imgur.com/MoiOPx8.png)
+
+**Edit 2**: Here's some good reading on why pie charts do not make for good data visualization: [PDF by Stephen Few](http://www.perceptualedge.com/articles/visual_business_intelligence/save_the_pies_for_dessert.pdf) | [Article](http://www.businessinsider.com/pie-charts-are-the-worst-2013-6) This sub is essentially TIL with data representation. you either die as a niche subreddit or live long enough to see yourself become a default More moderation takes a hell of a lot of man hours. 
+
+Edit:[ As requested](http://i.imgur.com/MNhkeHD.png)
+
+Edit 2: LOLOL I can't believe someone gilded this comment! thanks! Can you please illustrate this using a pie chart? Otherwise, I have no idea how to interpret your statement.  And you just confused volume with area, so it's all swings and roundabouts.
