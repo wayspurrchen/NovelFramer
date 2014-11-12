@@ -12,7 +12,7 @@ This sentence has five words. Here are five more words. Five-word sentences are 
 
 Damn, I still love that song. He currently outranks me. Well, almost no one. Sure, women retire earlier in most countries. Edit #2: No, you can't eat with your butthole. I am freaking LOSING IT, MAN! 2D does this much better. -  Brought his own aces. Why does a minor quirk of pronounciation matter? Yes, my dear Redittors. When the lost ones show up I put them back in the tin. This sucks. "Where's Steward." We rip our masks off and breath in that sweet hookah from hell. Washingtonian here. No joy, no crying, no anger, no nothing. What's an even bigger mystery to me is that his wife now is one of the prettiest blondes I have ever seen (not only was he dumber than a rusty bucket, he also had a face only his mother could love), and what's worse is that he has been passing on his genes with her.
 
-ORDER OF OPERATIONS
+# Order of Operations
 
 1. scan in a large corpus
 2. tokenize the sentences in it
